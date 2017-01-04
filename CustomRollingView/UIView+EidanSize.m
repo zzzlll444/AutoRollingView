@@ -1,9 +1,9 @@
 //
-//  UIView+EidanSize.m
+//  UIView+bo.m
 //  SlideOutTest7
 //
-//  Created by Eidan Lin on 12-11-7.
-//  Copyright (c) 2012年 taomm. All rights reserved.
+//  Created by bo on 12-11-7.
+//  Copyright (c) 2012年 qdingnet All rights reserved.
 //
 
 #import "UIView+EidanSize.h"
